@@ -62,7 +62,7 @@ if choice == "🏠Home":
    
     
     initialize_session_state()
-    st.title("GlobeGuru 🤖 ")
+    st.title("Ansar Info Buddy 🤖 ")
     st.write(" Ask me anythink relared travel 😀 ")
 
     chat_placeholder = st.container()
