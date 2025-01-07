@@ -63,7 +63,7 @@ if choice == "🏠Home":
     
     initialize_session_state()
     st.title("Ansar Info Buddy 🤖 ")
-    st.write(" Ask me anythink relared travel 😀 ")
+    st.write(" 🚀 Curious about travel? Let's chat and explore the world together! 🌐 ")
 
     chat_placeholder = st.container()
     prompt_placeholder = st.form("Chat-form")
